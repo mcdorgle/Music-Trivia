@@ -122,6 +122,8 @@
 set name button will set the player label to the player name to be displayed
 on the Display Scores black box with green text. Display the player name with the score
 in 16 point font each on a new line highest to lowest score.
+
+Should update scores each time add points is clicked
 </value>
   </data>
 </root>
